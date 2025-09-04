@@ -82,7 +82,7 @@
           <mxGeometry x="370" y="454" width="33.43" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x0FGpsDwqumfJHq6eJU5-34" value="" style="shape=rect;strokeColor=none;fillColor=#ffffff;gradientColor=none;shadow=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="368" y="487" width="164" height="100" as="geometry" />
+          <mxGeometry x="368" y="487" width="164" height="113" as="geometry" />
         </mxCell>
         <mxCell id="x0FGpsDwqumfJHq6eJU5-35" value="Saturday 10:12 AM" style="shape=text;align=center;verticalAlign=middle;fontSize=5;fontColor=#999999;strokeColor=none;fillColor=none;spacingTop=0;resizeWidth=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;" vertex="1" parent="x0FGpsDwqumfJHq6eJU5-34">
           <mxGeometry width="164" height="10" relative="1" as="geometry">
@@ -94,7 +94,7 @@
             <mxPoint x="5" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x0FGpsDwqumfJHq6eJU5-37" value="Hi Tim, of course, just give me a couple minutes to finish breakfast." style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.callout;strokeColor=none;fillColor=#0680FF;flipH=1;align=left;verticalAlign=top;fontSize=6;spacingLeft=2;fontColor=#ffffff;spacingTop=-2;whiteSpace=wrap;spacingRight=12;resizeWidth=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;" vertex="1" parent="x0FGpsDwqumfJHq6eJU5-34">
+        <mxCell id="x0FGpsDwqumfJHq6eJU5-37" value="Hi Tim, of course, just give me a couple minutes to finish breakfast." style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.callout;strokeColor=none;fillColor=#FF9933;flipH=1;align=left;verticalAlign=top;fontSize=6;spacingLeft=2;fontColor=#ffffff;spacingTop=-2;whiteSpace=wrap;spacingRight=12;resizeWidth=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;" vertex="1" parent="x0FGpsDwqumfJHq6eJU5-34">
           <mxGeometry x="0.35" width="100" height="35" relative="1" as="geometry">
             <mxPoint y="40" as="offset" />
           </mxGeometry>
@@ -103,6 +103,12 @@
           <mxGeometry width="164" height="10" relative="1" as="geometry">
             <mxPoint y="80" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x0FGpsDwqumfJHq6eJU5-44" value="Hey man, got a sec?" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.callout;strokeColor=none;fillColor=#E7E6EC;align=left;verticalAlign=middle;fontSize=6;spacingLeft=17;fontColor=#000000;spacingTop=0;whiteSpace=wrap;resizeWidth=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;" vertex="1" parent="x0FGpsDwqumfJHq6eJU5-34">
+          <mxGeometry y="86" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x0FGpsDwqumfJHq6eJU5-46" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iKeybLett;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="361" y="599" width="178" height="114" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
